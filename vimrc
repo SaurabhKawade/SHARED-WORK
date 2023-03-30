@@ -5,7 +5,7 @@ filetype off            " forces plugin to load correctly
 "filetype indent on
 
 """ colors
-set termguicolors
+" set termguicolors
 set background=dark     " configure vim to use bright colors
 syntax on
 syntax enable
